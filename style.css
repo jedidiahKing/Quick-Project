@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rosybrown;
+}
+
+.welcome-text{
+    background-color: black;
+    color: white;
+    height: 60px;
+    font-size: 18px;
+
+}
+
+.links ul{
+    text-decoration: none;
+    text-align: justify;
+}
+
+.links ul li{
+    line-height: 4rem;
+    list-style-type: none;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.links ul li a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
