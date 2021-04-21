@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-top: 3%;
+}
+
+
 #rembrant-carousel{
     width: 500px;
 }
