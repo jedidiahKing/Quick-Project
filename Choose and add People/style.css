@@ -1,0 +1,43 @@
+#topic{
+  text-align: center;
+  margin-top:3%;
+}
+.click-these-area{
+  width: 400px;
+  margin-left: 50px;
+  border: 5px solid rgb(0, 0, 0);
+}
+.click-these-area:hover{
+  opacity: 0.8;
+
+}
+
+.green-top{
+  background-color: green;
+  color: white;
+  padding: 3px 25px;
+}
+
+.highlight:hover {
+  opacity: 0.5;
+  font-size: 20px;
+  cursor: copy;
+
+}
+.it-goes-here-area{
+  margin-right:50px;
+  width: 400px;
+  border: 5px solid black;
+  position: absolute;
+  right: 0px;
+  bottom: 30px;
+}
+
+.red-top{
+  background-color: red;
+  color: white;
+  padding: 3px 25px;
+}
+/* hr{
+  margin: 5px 2px;
+} */
